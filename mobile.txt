@@ -1,2 +1,4 @@
 youtube.com
 *youtube.com
+facebook.com
+*facebook.com
